@@ -1,0 +1,17 @@
+{
+  "name": "Meditations",
+  "short_name": "Meditations",
+  "description": "A 5-minute journal app",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/~dustin/meditations/",
+  "scope": "/~dustin/meditations/",
+  "display": "standalone",
+  "theme_color": "#e3e3e3",
+  "background_color": "#e3e3e3"
+}
