@@ -8,4 +8,4 @@ I decided to create this simple app which emulates the 5 Minute Journal app, but
 
 This site is a PWA, meaning you can install it to your device in Android and it will look and act like a native application.
 
-Live version: [http://tilde.town/~dustin/meditations/](http://tilde.town/~dustin/meditations/)
+Live version: [https://0xdstn.site/meditations/](https://0xdstn.site/meditations/)
