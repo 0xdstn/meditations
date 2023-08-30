@@ -1,10 +1,10 @@
-const cacheName = 'meditations-v5';
+const cacheName = 'meditations-v5a';
 const appFiles = [
-    '/~dustin/meditations/',
-    '/~dustin/meditations/index.html',
-    '/~dustin/meditations/main.js',
-    '/~dustin/meditations/main.css',
-    '/~dustin/meditations/icon-512.png'
+    '/meditations/',
+    '/meditations/index.html',
+    '/meditations/main.js',
+    '/meditations/main.css',
+    '/meditations/icon-512.png'
 ];
 
 self.addEventListener('install', (e) => {

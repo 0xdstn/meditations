@@ -9,8 +9,8 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/~dustin/meditations/",
-  "scope": "/~dustin/meditations/",
+  "start_url": "/meditations/",
+  "scope": "/meditations/",
   "display": "standalone",
   "theme_color": "#e3e3e3",
   "background_color": "#e3e3e3"
